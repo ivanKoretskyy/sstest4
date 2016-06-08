@@ -1,1 +1,2 @@
 1 Specific – target a specific area for improvement.
+3 Assignable – specify who will do it.
